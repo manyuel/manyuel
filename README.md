@@ -2,6 +2,6 @@
 
 - 🔭 I'm currently working on more projects to improve my portfolio
 
-- 🌱 I’m currently learning more Ruby on Rails, particularly Stimulus and Turbo
+- 🌱 At the moment, I'm learning more Ruby on Rails, focusing on Stimulus and Turbo
 
-- 🛒 You can check my first project: www.lewagonmarketplace.co
+- 🛒 You can check my best project yet: www.lewagonmarketplace.co
